@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+## Navigo AI
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Navigo AI allows you to generate automatation workflows for your business processes using text prompts. It can connect multiple apps and solve all use cases related to sales, marketing, finance and community management.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+For more information, visit the [website](https://navigohq.com/)
